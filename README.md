@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Active Connections Auditor Agent
 
 ## Overview
@@ -44,4 +45,4 @@ print(result)
 - Configured review ports are indicators for further investigation, not proof of malicious activity.
 
 ## Project Status
-Standalone agent implemented and tested. Integration with the main Agentic Shell is pending verification.
+Standalone agent implemented and tested. Integration with the main Agentic Shell is pending.
